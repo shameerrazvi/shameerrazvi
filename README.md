@@ -78,7 +78,7 @@ Master of Business Analytics graduate with hands-on experience in **finance oper
 
 | Project | Business Problem Solved | Tech |
 |---|---|---|
-| 🧾 **AP Exception & Fraud Risk Analysis**  | Detects duplicate invoices, split payments, missing POs and unusual vendor activity using SQL rules, Benford's Law and anomaly detection | SQL · Python · scikit-learn · Power BI |
+| 🧾 **[AP Exception & Fraud Risk Analysis](https://github.com/shameerrazvi/ap-exception-analysis)** | Tested 8,579 invoices ($37.1M): found $264k in potential overpayments and a suspected fictitious vendor using SQL rules, ATO ABN checks, Benford's Law and anomaly detection | SQL · Python · scikit-learn · Excel |
 | ⚙️ **Invoice Validation Automation** | Automates invoice checks that took 40 minutes manually. VBA and Python versions compared (dummy data) | Excel VBA · Python |
 | ⛽ **Australian Fuel Price Cycle Forecasting** | Analyses fuel price cycles across NSW and forecasts the best days to buy | Python · Time Series · Power BI |
 | 🏢 **GST-Registered Companies Segmentation**  | Segments Australian Pty Ltd companies to identify high-value marketing targets by region and industry | Python · SQL · K-means · Power BI |
