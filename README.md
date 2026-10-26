@@ -76,12 +76,12 @@ Master of Business Analytics graduate with hands-on experience in **finance oper
 
 ## 📂 Featured Projects
 
-| Project | Business Problem Solved | Tech |
+| Project | What it shows | Tools |
 |---|---|---|
-| 🧾 **[AP Exception & Fraud Risk Analysis](https://github.com/shameerrazvi/ap-exception-analysis)** | Tested 8,579 invoices ($37.1M): found $264k in potential overpayments and a suspected fictitious vendor using SQL rules, ATO ABN checks, Benford's Law and anomaly detection | SQL · Python · scikit-learn · Excel |
-| ⚙️ **[Invoice Validation Automation](https://github.com/shameerrazvi/invoice-validation-automation)** | Pre-posting check of a daily invoice batch: 11 checks incl. 3-way match, ABN, bank details and duplicates. Excel VBA and Python versions give identical results; caught 64 of 64 planted errors | Excel VBA · Python · pandas |
-| ⛽ **[NSW Fuel Price Cycles 2025–26](https://github.com/shameerrazvi/nsw-fuel-price-cycles)** | 1.3M real FuelCheck price changes: measured Sydney's 32-day price cycle, showed it stopped after March 2026, tested excise pass-through, and built a price-jump warning (0.95 AUC) | Python · SciPy · scikit-learn |
-| 🏢 **GST-Registered Companies Segmentation**  | Segments Australian Pty Ltd companies to identify high-value marketing targets by region and industry | Python · SQL · K-means · Power BI |
+| 🧾 [Accounts Payable Exception & Fraud Risk Analysis](https://github.com/shameerrazvi/ap-exception-analysis) | Duplicate invoices, missing POs, late payments and vendor risk scoring | SQL, Python, Power BI |
+| ✅ [Invoice Validation Automation](https://github.com/shameerrazvi/invoice-validation-automation) | Excel tool that checks invoices against POs, receipts and vendor records before payment | Excel, VBA, Python |
+| ⛽ [NSW Fuel Price Cycles 2025–26](https://github.com/shameerrazvi/nsw-fuel-price-cycles) | 1.33M real price changes: when to fill up, brand pricing, excise pass-through | Python, scikit-learn |
+| 🏢 [GST-Registered Companies: Targeted Marketing](https://github.com/shameerrazvi/gst-company-targeting) | 4.09M companies from the ABN register, segmented by region and industry for B2B targeting | Python, SQL, Power BI |
 
 
 ---
